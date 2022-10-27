@@ -11,6 +11,10 @@ namespace ArandaSoft.PruebaTecnica.Repository.Data
         public DbContexAplic(DbContextOptions<DbContexAplic> options) : base(options)
         {
 
+        }
+
+
+
 
 
         }
