@@ -23,7 +23,7 @@ namespace ArandaSoft.PruebaTecnica.Api.Controllers
         }
 
         /// <summary>
-        /// Método que retorna una lista de productos de acuerdo a los parametros de FilterDTO
+        /// Método que retorna una lista de productos de acuerdo a los parametros de FilterDTO prueba
         /// </summary>
         /// <param name="productFilterDTO">Permite filtrar por Categoría, Nombre y Descripción, ordenar por Nombre y Categoría y trarse un número de regitros indicando la Pág </param>
         /// <returns>Retorna una lista de productos de acuerdos a los parametros dados</returns>
