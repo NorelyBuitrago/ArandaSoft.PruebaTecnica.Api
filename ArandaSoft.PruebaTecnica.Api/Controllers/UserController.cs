@@ -7,6 +7,10 @@ namespace ArandaSoft.PruebaTecnica.Api.Controllers
     /// </summary>
     public class UserController : Controller
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         public IActionResult Index()
         {
             return View();
