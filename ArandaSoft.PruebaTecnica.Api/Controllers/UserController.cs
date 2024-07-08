@@ -3,12 +3,12 @@
 namespace ArandaSoft.PruebaTecnica.Api.Controllers
 {
     /// <summary>
-    /// 2
+    /// 123456
     /// </summary>
     public class UserController : Controller
     {
         /// <summary>
-        /// 
+        /// 123456
         /// </summary>
         /// <returns></returns>
         public IActionResult Index()
